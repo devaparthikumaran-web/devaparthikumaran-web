@@ -1,7 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Devakumaran%20Parthiban&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Network%20%26%20Security%20Student%20%C2%B7%20UTM&descAlignY=58&descSize=20&animation=fadeIn" alt="Header banner" width="100%"/>
+<h1>Devakumaran Parthiban</h1>
+
+<!-- 📌 ADD YOUR IMAGE / BANNER HERE LATER, for example:
+<img src="YOUR_IMAGE_LINK" alt="Banner" width="100%"/>
+-->
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B+I'm+Devakumaran+Parthiban;Computer+Science+Student+%40+UTM;Networking+%7C+Cybersecurity+%7C+IoT;Building+hands-on+projects+%26+learning+every+day" alt="Typing animation" />
@@ -37,7 +41,7 @@ Hi! I'm **Devakumaran Parthiban**, a first-year **Bachelor of Computer Science (
 I enjoy exploring how **hardware, software, and networks** work together to solve real-world problems, and I'm aiming to build a career in **technology and cybersecurity**.
 
 - 🎓 **Studying:** Bachelor of Computer Science (Computer Network and Security), UTM
-- 🌱 **Currently learning:** Technology and Information System, Digital Logic, Programming Technique I and Discrete strcuture
+- 🌱 **Currently learning:** Technology and Information System, Digital Logic, Programming Technique I, and Discrete Structure
 - 🤝 **Open to:** Collaborating on IoT and cybersecurity projects
 - 🎯 **Career goal:** Building a career in technology and cybersecurity
 
@@ -106,8 +110,8 @@ I enjoy exploring how **hardware, software, and networks** work together to solv
 | **Automated Light Off System** | Innovation competition project using smart/IoT concepts | `IoT` `Arduino` | *Coming soon* |
 
 <!-- Once your repos are public, you can add pinned-repo cards like this:
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO&theme=tokyonight&hide_border=true" alt="Project" />
+<a href="https://github.com/devaparthikumaran-web/YOUR_REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devaparthikumaran-web&repo=YOUR_REPO&theme=tokyonight&hide_border=true" alt="Project" />
 </a>
 -->
 
@@ -134,11 +138,7 @@ I enjoy exploring how **hardware, software, and networks** work together to solv
 
 ## 🏆 Achievements
 
-- 💡 **Innovation Competitions:** Participated, including an automated light off system using smart/IoT concepts *(PPIK, 2025, and Gold)*
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devaparthikumaran-web&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
-</div>
+- 💡 **Innovation Competitions:** Participated, including an automated light off system using smart/IoT concepts *(PPIK, 2025 – Gold)*
 
 ---
 
@@ -147,12 +147,10 @@ I enjoy exploring how **hardware, software, and networks** work together to solv
 <div align="center">
 
 <a href="mailto:devaparthikumaran@gmail.com"><img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/p-devakumaran-s-parthiban-43a82a444"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br/><br/>
 
 💬 *Feel free to reach out about cybersecurity, networking, or IoT projects.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" width="100%"/>
 
 </div>
